@@ -46,4 +46,4 @@ Si tienes alguna pregunta o quieres discutir más sobre el proyecto, contáctame
 
 ---
 
-Proyecto creado por [Tu Nombre]carolina fariña.
+Proyecto creado por carolina fariña.
